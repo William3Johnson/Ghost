@@ -169,7 +169,7 @@
     "nconf": "0.12.0",
     "node-jose": "2.1.1",
     "oembed-parser": "1.4.9",
-    "passport": "0.5.2",
+    "passport": "0.6.0",
     "passport-google-oauth": "2.0.0",
     "path-match": "1.2.4",
     "probe-image-size": "7.2.3",
